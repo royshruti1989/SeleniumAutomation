@@ -17,7 +17,11 @@ import utils.ConfigReader;
 import utils.ExtentManager;
 import utils.ScreenshotUtil;
 public class BaseTest {
-	
+	//ab
+	//sd
+	//ch
+	//df
+	//fg
 	public static WebDriver driver;//because it has to be global variable
 	
 	public static ExtentReports extent;
